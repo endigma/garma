@@ -1,3 +1,6 @@
+ignore/
+ui/app.glade~
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
